@@ -1,0 +1,17 @@
+{
+  "name": "parallel",
+  "version": "1.0.0",
+  "description": "home exam task",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Volik",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0",
+    "threads": "^1.6.3"
+  }
+}
